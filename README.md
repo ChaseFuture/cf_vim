@@ -73,7 +73,7 @@ git clone https://github.com/kien/ctrlp.vim.git
 
 ```
 cd ~/.vim/bundle
-git clone git://github.com/msanders/snipmate.vim.gi
+git clone git://github.com/msanders/snipmate.vim.git
 ```
 
 ## Markdown
